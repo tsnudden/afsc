@@ -1,0 +1,153 @@
+/* Your styles here */
+
+body {
+	
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+h3 button {
+	padding: 3px 7px !important;
+	font-size: 13px !important;
+}
+
+textarea {
+	width: 80%;
+	min-height: 80px;
+}
+
+.edit-panel input {
+	width: 80%;
+}
+
+.edit-panel input[type="checkbox"] {
+	width: auto;
+}
+
+.edit-panel select {
+    width: 80%;
+    padding: 3px 0;
+    margin-bottom: 10px;
+}
+
+.header {
+	/*background-color: #313131;
+	color: white;*/
+}
+
+.header-nav {
+	list-style: none;
+	padding: 0;
+}
+
+.header-nav li {
+	float: left;
+	cursor: pointer;
+}
+
+.header-nav li a, .header-nav li span {
+	padding: 17px 14px;
+    float: left;
+}
+
+.header-nav li span {
+	padding-right: 0;
+}
+
+.header-nav li:first-of-type a {
+	padding-left: 0;
+}
+
+.header-nav li:last-of-type a {
+	padding-right: 0;
+}
+
+.header-nav li:last-of-type {
+	float: right;
+}
+
+.logo {
+	margin-top: 15px;
+	margin-right: 25px;
+}
+
+.header-nav li:hover {
+	
+}
+
+.login-box {
+	text-align: center;
+}
+
+.login-box input {
+    border: solid thin #C3C3C3;
+	margin-bottom: 10px;
+}
+
+.login-error {
+	color: red;
+	font-size: 14px;
+}
+
+table thead {
+	font-weight: bold;
+}
+
+.notifications {
+	margin: 10px 0;
+}
+
+.notification {
+	border: solid thin #C1C1C1;
+	padding: 7px 14px;
+	font-size: 14px;
+}
+
+.notification.success {
+	background-color: #EAFFEA;
+    border-radius: 2px;
+}
+
+.notification.error {
+	background-color: #FFBCBC;
+}
+
+.action-button {
+	padding: 1px 6px;
+    font-size: 12px;
+	margin-right: 6px;
+}
+
+.search {
+	padding: 13px;
+	border: solid thin #C1C1C1;
+    margin-bottom: 10px;
+}
+
+.search input {
+	margin-bottom: 0;
+}
+
+.search-title {
+	font-size: 13px;
+    color: #AFAFAF;
+    font-weight: bold;
+}
+
+.search-element {
+	margin-right: 15px;
+}
+
+.add-new-start-textarea {
+	height: 300px;
+}
+
+.large-edit-textarea {
+	height: 600px;
+}
+
+.cf {
+	clear: both;
+}
